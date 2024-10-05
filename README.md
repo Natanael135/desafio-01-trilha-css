@@ -31,12 +31,10 @@ Este projeto é uma landing page fictícia chamada **Trilha de CSS da DIO**, com
 ## Como Executar
 
 1. Clone o repositório para sua máquina local:
-   ```bash
   git clone https://github.com/Natanael135/desafio-01-trilha-css.git
-  ```
+  
 2. Navegue até o diretório do projeto:
-   ```bash
   cd desafio-01-trilha-css
-   ```
+
 3. Abra o arquivo index.html no navegador:
 Se preferir, você pode usar uma extensão como Live Server no VSCode para visualizar o projeto em tempo real.
