@@ -1,22 +1,42 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Trilha de CSS - DIO
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+Este projeto foi desenvolvido como parte da trilha de CSS oferecida pela DIO (Digital Innovation One). O objetivo é demonstrar o uso de CSS para estilizar uma página web, com foco em boas práticas e técnicas modernas, como rolagem suave, layouts responsivos e animações.
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+## Índice
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+- [Visão Geral](#visão-geral)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Funcionalidades](#funcionalidades)
+- [Como Executar](#como-executar)
+- [Estrutura de Pastas](#estrutura-de-pastas)
+- [Contato](#contato)
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+## Visão Geral
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+Este projeto é uma landing page fictícia chamada **Trilha de CSS da DIO**, com foco em praticar conceitos de CSS puro, sem uso de bibliotecas ou frameworks de front-end. A página exibe um banner, um resumo dos módulos de estudo e uma seção de chamada para ação.
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+## Tecnologias Utilizadas
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+- **HTML5**: Estruturação do conteúdo da página.
+- **CSS3**: Estilização da página, incluindo gradientes, rolagem suave e efeitos visuais.
+
+## Funcionalidades
+
+- **Banner interativo**: Exibe o logotipo e uma breve descrição da trilha de CSS, com um botão de inscrição.
+- **Seções de conteúdo**: Informações detalhadas sobre os módulos disponíveis na trilha, utilizando estilos avançados como sombras, bordas arredondadas e gradientes.
+- **Rolagem suave**: Ao clicar em âncoras, a página rola de forma suave para as seções internas.
+- **Imagens responsivas**: As imagens são adaptadas para diferentes tamanhos de tela.
+- **Modo escuro**: O fundo da página é predominantemente escuro para melhor visualização e estilo moderno.
+
+## Como Executar
+
+1. Clone o repositório para sua máquina local:
+   ```bash
+  git clone https://github.com/Natanael135/desafio-01-trilha-css.git
+  ```
+2. Navegue até o diretório do projeto:
+   ```bash
+  cd desafio-01-trilha-css
+   ```
+3. Abra o arquivo index.html no navegador:
+Se preferir, você pode usar uma extensão como Live Server no VSCode para visualizar o projeto em tempo real.
